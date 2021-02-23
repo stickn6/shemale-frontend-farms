@@ -1835,9 +1835,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@VikingDefi/viking-uikit":
+"@pancakeswap-libs/uikit@TasteFinance/taste-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/VikingDefi/viking-uikit/tar.gz/68297b4ae9a7b42a433a39bf7b271a9fb37adbab"
+  resolved "https://codeload.github.com/TasteFinance/taste-uikit/tar.gz/2876f4befa5d0ae514bb4902249c17e4dc34124e"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
