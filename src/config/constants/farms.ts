@@ -8,12 +8,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'TASTE-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43',
+      56: '0x067FC72ab9743b431Ab8D8a85758B2d30e81E75b',
     },
     tokenSymbol: 'TASTE',
     tokenAddresses: {
       97: '',
-      56: '0x17EdC999C310e622F9623Dc8A5baa9EC1dDa6956',
+      56: '0xF34b702924751434Bdf83Acc2766947d4c38fBEE',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -24,12 +24,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'TASTE-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xc79173e5f6501d7c1ab2f4e7544b13fc6562ce6a',
+      56: '0x175Ac149B9A667925016c41e8D25984e9532A909',
     },
     tokenSymbol: 'TASTE',
     tokenAddresses: {
       97: '',
-      56: '0x17EdC999C310e622F9623Dc8A5baa9EC1dDa6956',
+      56: '0xF34b702924751434Bdf83Acc2766947d4c38fBEE',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -185,12 +185,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'TASTE',
     lpAddresses: {
       97: '',
-      56: '0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43', // TASTE-BUSD LP
+      56: '0x067FC72ab9743b431Ab8D8a85758B2d30e81E75b', // TASTE-BUSD LP
     },
     tokenSymbol: 'TASTE',
     tokenAddresses: {
       97: '',
-      56: '0x17EdC999C310e622F9623Dc8A5baa9EC1dDa6956',
+      56: '0xF34b702924751434Bdf83Acc2766947d4c38fBEE',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -225,23 +225,6 @@ const farms: FarmConfig[] = [
     tokenAddresses: {
       97: '',
       56: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c',
-    },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
-  },
-  {
-    pid: 22,
-    risk: 3,
-    isTokenOnly: true,
-    lpSymbol: 'EGG',
-    lpAddresses: {
-      97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019', // EGG-BUSD LP
-    },
-    tokenSymbol: 'EGG',
-    tokenAddresses: {
-      97: '',
-      56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,

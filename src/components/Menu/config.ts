@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://exchange.taste.finance/',
+        href: 'https://exchange.taste.finance/',
       },
       {
         label: 'Liquidity',
-        href: 'http://exchange.taste.finance/#/pool',
+        href: 'https://exchange.taste.finance/#/pool',
       },
     ],
   },
@@ -26,7 +26,7 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Palate',
+    label: 'Savory',
     icon: 'PoolIcon',
     href: '/nests',
   },
@@ -36,11 +36,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x17EdC999C310e622F9623Dc8A5baa9EC1dDa6956',
+        href: 'https://pancakeswap.info/token/0xF34b702924751434Bdf83Acc2766947d4c38fBEE',
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43',
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x067FC72ab9743b431Ab8D8a85758B2d30e81E75b',
       },
     ],
   },
