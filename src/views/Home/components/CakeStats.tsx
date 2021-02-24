@@ -44,7 +44,7 @@ const CakeStats = () => {
           {TranslateString(534, 'Egg Stats')}
         </Heading>
         <Row>
-          <Text fontSize="14px">{TranslateString(536, 'Total TASTE Supply')}</Text>
+          <Text fontSize="14px">{TranslateString(536, 'Total SHEMALE Supply')}</Text>
           {cakeSupply && <CardValue fontSize="14px" value={cakeSupply} decimals={0} />}
         </Row>
         <Row>
@@ -52,7 +52,7 @@ const CakeStats = () => {
           <CardValue fontSize="14px" value={getBalanceNumber(marketCap)} decimals={0} prefix="$" />
         </Row>
         <Row>
-          <Text fontSize="14px">{TranslateString(538, 'Total TASTE Burned')}</Text>
+          <Text fontSize="14px">{TranslateString(538, 'Total SHEMALE Burned')}</Text>
           <CardValue fontSize="14px" value={getBalanceNumber(burnedBalance)} decimals={0} />
         </Row>
         <Row>

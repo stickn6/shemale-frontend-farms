@@ -5,15 +5,15 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'TASTE-BUSD LP',
+    lpSymbol: 'SHEMALE-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0x067FC72ab9743b431Ab8D8a85758B2d30e81E75b',
     },
-    tokenSymbol: 'TASTE',
+    tokenSymbol: 'SHEMALE',
     tokenAddresses: {
       97: '',
-      56: '0xF34b702924751434Bdf83Acc2766947d4c38fBEE',
+      56: '0x021443316C1a86b7bADb537F948bE82de4F67e69',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -21,15 +21,15 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'TASTE-BNB LP',
+    lpSymbol: 'SHEMALE-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x175Ac149B9A667925016c41e8D25984e9532A909',
     },
-    tokenSymbol: 'TASTE',
+    tokenSymbol: 'SHEMALE',
     tokenAddresses: {
       97: '',
-      56: '0xF34b702924751434Bdf83Acc2766947d4c38fBEE',
+      56: '0x021443316C1a86b7bADb537F948bE82de4F67e69',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -182,15 +182,15 @@ const farms: FarmConfig[] = [
     pid: 11,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'TASTE',
+    lpSymbol: 'SHEMALE',
     lpAddresses: {
       97: '',
-      56: '0x067FC72ab9743b431Ab8D8a85758B2d30e81E75b', // TASTE-BUSD LP
+      56: '0x067FC72ab9743b431Ab8D8a85758B2d30e81E75b', // SHEMALE-BUSD LP
     },
-    tokenSymbol: 'TASTE',
+    tokenSymbol: 'SHEMALE',
     tokenAddresses: {
       97: '',
-      56: '0xF34b702924751434Bdf83Acc2766947d4c38fBEE',
+      56: '0x021443316C1a86b7bADb537F948bE82de4F67e69',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -202,7 +202,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019', // TASTE-BUSD LP (BUSD-BUSD will ignore)
+      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019', // SHEMALE-BUSD LP (BUSD-BUSD will ignore)
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {

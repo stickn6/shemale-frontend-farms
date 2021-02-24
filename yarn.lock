@@ -1835,9 +1835,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@TasteFinance/taste-uikit":
+"@pancakeswap-libs/uikit@ShemaleFinance/shemale-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/TasteFinance/taste-uikit/tar.gz/2876f4befa5d0ae514bb4902249c17e4dc34124e"
+  resolved "https://codeload.github.com/ShemaleFinance/shemale-uikit/tar.gz/2876f4befa5d0ae514bb4902249c17e4dc34124e"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
