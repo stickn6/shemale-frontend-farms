@@ -49,6 +49,10 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
+        label: "Voting",
+        href: "https://snapshot.page/#/tastefinance.eth/",
+      },      
+      {
         label: "Github",
         href: "https://github.com/TasteFinance/",
       },
