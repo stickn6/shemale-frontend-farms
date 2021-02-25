@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SHEMALE-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x067FC72ab9743b431Ab8D8a85758B2d30e81E75b',
+      56: '0x8841Ba293841a77C373e0783ee88368E51Ae6970',
     },
     tokenSymbol: 'SHEMALE',
     tokenAddresses: {
@@ -24,7 +24,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SHEMALE-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x175Ac149B9A667925016c41e8D25984e9532A909',
+      56: '0x2B08C7eaBc9595b61fF57015F7fdD3F2F3771F12',
     },
     tokenSymbol: 'SHEMALE',
     tokenAddresses: {
@@ -185,7 +185,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SHEMALE',
     lpAddresses: {
       97: '',
-      56: '0x067FC72ab9743b431Ab8D8a85758B2d30e81E75b', // SHEMALE-BUSD LP
+      56: '0x8841Ba293841a77C373e0783ee88368E51Ae6970', // SHEMALE-BUSD LP
     },
     tokenSymbol: 'SHEMALE',
     tokenAddresses: {
